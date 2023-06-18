@@ -1,0 +1,1 @@
+# coursier-bom-issue
